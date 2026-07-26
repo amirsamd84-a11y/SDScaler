@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sdscaler"
-version = "0.1.0"
+version = "0.2.0"
 description = "auto-scaler that picks standard/minmax/robust scaling per column"
 readme = "README.md"
 requires-python = ">=3.8"
